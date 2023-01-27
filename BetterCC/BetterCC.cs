@@ -3,7 +3,7 @@
 using BetterCC.Interface;
 
 namespace BetterCC {
-	public sealed class Gaze : IDalamudPlugin {
+	public sealed class BetterCC : IDalamudPlugin {
 		public string Name => "BetterCC";
 		public string CommandName = "/bettercc";
 
