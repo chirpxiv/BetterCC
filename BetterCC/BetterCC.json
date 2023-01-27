@@ -1,0 +1,18 @@
+{
+	"Author": "Chirp",
+	"Name": "BetterCC",
+	"Punchline": "Expanded character creator.",
+	"Description": "Expanded character creator. ",
+	"InternalName": "BetterCC",
+	"AssemblyVersion": "0.1.0.0",
+	"RepoUrl": "https://github.com/chirpxiv/BetterCC/",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 8,
+	"Tags": [
+		"bettercc",
+		"character",
+		"character creator",
+		"chirp"
+	],
+	"IconUrl": "https://github.com/chirpxiv/BetterCC/raw/main/icon.png"
+}
